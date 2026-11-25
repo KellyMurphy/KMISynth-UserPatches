@@ -1,0 +1,16 @@
+KMISynth User Patches
+
+All patch files (.kmip) in this repository are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0), unless a file states otherwise.
+
+You are free to share (copy and redistribute) and adapt (remix, transform and build upon) the patches for
+any purpose, including commercially, as long as you give appropriate credit to the patch's author (as shown
+in this repository's commit history or the patch's tags), provide a link to the license, and indicate if
+changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+By submitting a pull request that adds or changes a patch, you confirm that the patch is your own work, or
+that you have the right to share it, and you agree to license it under CC BY 4.0.
+
+The scripts and workflow files in this repository are licensed under the MIT License.
